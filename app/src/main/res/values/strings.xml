@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mapa</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="search">Traži</string>
+    <string name="searchTitleOrContent">Trazi po naslovu ili sadržaju</string>
+    <string name="back">Odustani</string>
+    <string name="title">Naslov</string>
+    <string name="content">Sadržaj</string>
+    <string name="map">Mapa</string>
+    <string name="locations">Lokacije</string>
+    <string name="save">Sačuvaj</string>
+    <string name="list">Lista</string>
+    <string name="Error">Error while fetching data from database</string>
+    <string name="edit">Izmeni</string>
+    <string name="exit">Nazad</string>
+    <string name="input">Unos</string>
+</resources>
